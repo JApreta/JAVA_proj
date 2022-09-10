@@ -1,0 +1,23 @@
+Strategy A
+Starting out with  5-gallon jug and a  6-gallon jug              -- state:(0,0)
+Fill the  5-gallon jug                                           -- state:(5,0)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(0,5)
+Fill the  5-gallon jug                                           -- state:(5,5)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(4,6)
+Empty the  6-gallon jug                                          -- state:(4,0)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(0,4)
+Fill the  5-gallon jug                                           -- state:(5,4)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(3,6)
+Empty the  6-gallon jug                                          -- state:(3,0)
+
+Strategy B
+Starting out with  5-gallon jug and a  6-gallon jug              -- state:(0,0)
+Fill the  5-gallon jug                                           -- state:(5,0)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(0,5)
+Fill the  5-gallon jug                                           -- state:(5,5)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(4,6)
+Empty the  6-gallon jug                                          -- state:(4,0)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(0,4)
+Fill the  5-gallon jug                                           -- state:(5,4)
+Pour water from the  5-gallon jug into the  6-gallon jug         -- state:(3,6)
+Empty the  6-gallon jug                                          -- state:(3,0)

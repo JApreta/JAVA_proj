@@ -1,0 +1,21 @@
+Strategy A
+Starting out with  7-gallon jug and a  4-gallon jug              -- state:(0,0)
+Fill the  7-gallon jug                                           -- state:(7,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(3,4)
+Empty the  4-gallon jug                                          -- state:(3,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(0,3)
+Fill the  7-gallon jug                                           -- state:(7,3)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(6,4)
+Empty the  4-gallon jug                                          -- state:(6,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(2,4)
+
+Strategy B
+Starting out with  7-gallon jug and a  4-gallon jug              -- state:(0,0)
+Fill the  7-gallon jug                                           -- state:(7,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(3,4)
+Empty the  4-gallon jug                                          -- state:(3,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(0,3)
+Fill the  7-gallon jug                                           -- state:(7,3)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(6,4)
+Empty the  4-gallon jug                                          -- state:(6,0)
+Pour water from the  7-gallon jug into the  4-gallon jug         -- state:(2,4)

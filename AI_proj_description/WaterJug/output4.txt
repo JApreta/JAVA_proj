@@ -1,0 +1,5 @@
+Strategy A
+Starting out with 13-gallon jug and a  7-gallon jug              -- state:(4,7)
+
+Strategy B
+Starting out with 13-gallon jug and a  7-gallon jug              -- state:(4,7)
